@@ -340,11 +340,10 @@ This project is open source and available for educational purposes.
 
 ## 👤 Author
 
-**Sauraf Kumar**
-- Portfolio: [sauraf-portfolio.vercel.app ](https://portfolio.com)
-- GitHub: [https://github.com/Sauraf07](https://github.com)
-- LinkedIn: [linkedin.com/in/sauraf07](https://linkedin.com)
-- Email: saurafsps7631@gmail.com
+**Priyam Kumar Mishra**
+- GitHub: [https://github.com/iampriyamkaushal](https://github.com)
+- LinkedIn: [www.linkedin.com/in/iampriyamkaushal](https://linkedin.com)
+- Email: priyamkumarmishra86@gmail.com
 
 ## 🙏 Acknowledgments
 
